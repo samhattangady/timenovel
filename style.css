@@ -25,7 +25,7 @@ body {
 }
 
 .notes {
-  max-width: 400px;
   background-color: #dadada;
+  margin: 20px;
   padding: 10px;
 }
